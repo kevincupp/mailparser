@@ -12,7 +12,7 @@
         "addressparser": "1.0.1",
         "he": "^1.1.1",
         "html-to-text": "3.3.0",
-        "iconv-lite": "0.4.19",
+        "iconv": "2.3.0",
         "libmime": "3.1.0",
         "linkify-it": "2.0.3",
         "mailsplit": "4.1.2",
